@@ -1,0 +1,124 @@
+#Qh{
+    background-color:cornflowerblue;
+    border: 10px solid aliceblue;
+    border-radius: 5px;
+    color: black;
+    width: 1000%;
+    height: 100%;
+    text-align: center;
+    padding: 3px 3px 3px 2px;
+    margin: 5px 10px 15px 20px;
+    }
+    .score{
+        position: absolute;
+        bottom: 250px;
+        top: 60%;
+        margin-left: 500px;
+        font-weight: bolder;
+        color: brown;
+    }
+    .content{
+        position: absolute;
+        bottom: 375px;
+        left: 250px;
+        font-family: 'Work Sans', sans-serif;
+        font-size: larger;
+        color: grey;
+        font-weight: bold;
+       
+        text-align: center;
+    }
+
+    .options{
+        position: absolute;
+        top: 70%;
+        bottom: 20px;
+        left: 150px;
+    }
+
+    #Option1{
+        background-color: aqua;
+        font-family: 'Work Sans', sans-serif; 
+        font-size: 16px;
+              
+    }
+    #Option2{
+        background-color: aqua;
+        font-family: 'Work Sans', sans-serif; 
+        font-size: 16px;
+              
+    }
+    #Option3{
+        background-color: aqua;
+        font-family: 'Work Sans', sans-serif; 
+        font-size: 16px;
+              
+    }
+   
+    .controls{
+        position: absolute;
+        bottom: 375px;
+        left: 450px;
+        top: 50%;
+        
+
+    }
+  #Restart{
+        background-color: darkgoldenrod;
+    }
+    
+    #Restart:hover{
+        background-color: blue; 
+    }
+    #Prev{
+        background-color: darkgoldenrod;
+    }
+        #Prev:hover{
+            background-color: blue; 
+        }
+        #Next{
+            background-color: darkgoldenrod;
+        }
+            #Next:hover{
+                background-color: blue; 
+            }
+            #Submit{
+                background-color: darkgoldenrod;
+            }
+                #Submit:hover{
+                    background-color: blue; 
+                }
+       
+  
+  
+        
+      
+         
+          
+            
+          
+             
+    .container
+{
+  display: flex;
+  height: 10vh;
+  color: grey;
+        font-size: 30px;
+        font-weight: normal;
+        margin 20px;
+        padding: 30px;
+}
+
+.container .content
+{
+  display: flex;
+  flex-direction: column;
+  top: 20%;
+  padding: 30px;
+  color: grey;
+        font-size: 30px;
+        font-weight: normal;
+        margin 20px;
+}
+
+   
